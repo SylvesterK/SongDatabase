@@ -3,7 +3,7 @@
 
 ## Cél: 
 
-A cél megkönnyiteni a gyülekezetek közti énekekmegosztást és az énekek könnyü hozzáférhetőségét platformfüggetlenül. 
+A cél megkönnyiteni a gyülekezetek közti énekmegosztást és az énekek könnyű hozzáférhetőségét platformfüggetlenül. 
 
 
 Bárki hozzájárulhat az adatbázis bővitéséhez, fejlesztéséhez!
